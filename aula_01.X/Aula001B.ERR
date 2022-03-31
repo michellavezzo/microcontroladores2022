@@ -1,0 +1,6 @@
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 122 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 123 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 125 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Error[113]   C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 144 : Symbol not previously defined (NAO)
+Error[126]   C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 144 : Argument out of range (FFE3 not between 0000 and 03FF)
+Error[108]   C:\USERS\MICHE\MPLABXPROJECTS\AULA_01.X\AULA001B.ASM 151 : Illegal character (-)
