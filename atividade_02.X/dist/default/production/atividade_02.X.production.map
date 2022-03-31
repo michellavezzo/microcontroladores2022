@@ -1,0 +1,50 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Mon Mar 21 23:32:38 2022
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00006e
+.config_2007_HEXTOBCD_V2.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00003a      
+                            0x002007    0x002007      
+            57 out of 1158 program addresses used, program memory utilization is 4%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 CENT_INC   0x000035    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                 END_PROG   0x000039    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                   INICIO   0x00000d    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                     MAIN   0x000018    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                  ROUTINE   0x00002f    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                  SAI_INT   0x000007    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+              SET_NIBBLES   0x000028    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+               SUBROTINA1   0x00000c    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                  SAI_INT   0x000007    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+               SUBROTINA1   0x00000c    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                   INICIO   0x00000d    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                     MAIN   0x000018    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+              SET_NIBBLES   0x000028    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                  ROUTINE   0x00002f    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                 CENT_INC   0x000035    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+                 END_PROG   0x000039    program     static C:\Users\miche\MPLABXProjects\atividade_02.X\hexToBCD_v2.ASM
+
+

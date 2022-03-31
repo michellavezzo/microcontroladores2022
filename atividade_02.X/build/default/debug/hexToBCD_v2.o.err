@@ -1,0 +1,4 @@
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\ATIVIDADE_02.X\HEXTOBCD_V2.ASM 125 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\ATIVIDADE_02.X\HEXTOBCD_V2.ASM 126 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\MICHE\MPLABXPROJECTS\ATIVIDADE_02.X\HEXTOBCD_V2.ASM 128 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\MICHE\MPLABXPROJECTS\ATIVIDADE_02.X\HEXTOBCD_V2.ASM 191 : Using default destination of 1 (file).
